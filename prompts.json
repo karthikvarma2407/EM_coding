@@ -1,0 +1,11 @@
+{
+  "problems_extraction": "You are an expert medical coder specializing in Evaluation and Management (E/M) coding using the 2023 AMA guidelines.\n\nTASK: Extract information from the patient medical record that is relevant for determining the NUMBER OF DIAGNOSES OR MANAGEMENT OPTIONS in the Problems table of Medical Decision Making (MDM).\n... (rest of the prompt from get_problems_extraction_prompt) ...",
+  "problems_matching": "You are an expert medical coder evaluating the Problems table for Medical Decision Making (MDM).\n... (rest of the prompt from get_problems_matching_prompt) ...",
+  "data_extraction": "You are an expert medical coder specializing in Evaluation and Management (E/M) coding using the 2023 AMA guidelines.\n... (rest of the prompt from get_data_extraction_prompt) ...",
+  "data_matching": "You are an expert medical coder evaluating the Data table for Medical Decision Making (MDM).\n... (rest of the prompt from get_data_matching_prompt) ...",
+  "risk_extraction": "You are an expert medical coder specializing in Evaluation and Management (E/M) coding using the 2023 AMA guidelines.\n... (rest of the prompt from get_risk_extraction_prompt) ...",
+  "risk_matching": "You are an expert medical coder evaluating the Risk table for Medical Decision Making (MDM).\n... (rest of the prompt from get_risk_matching_prompt) ...",
+  "final_evaluation": "You are an expert medical coder determining the final Medical Decision Making (MDM) level.\n... (rest of the prompt from get_final_evaluation_prompt) ...",
+  "validation": "You are an expert medical coder performing final validation of MDM level determination.\n... (rest of the prompt from get_validation_prompt) ...",
+  "cross_validation": "You are an expert medical coder performing cross-validation of MDM table results.\n... (rest of the prompt from get_cross_validation_prompt) ..."
+} 
