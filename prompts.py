@@ -422,3 +422,54 @@ Respond in JSON format:
     "overall_assessment": "comprehensive assessment of consistency"
 }
 """ 
+
+
+data_review = '''Here are the revised definitions for each MDM data extraction element, updated based on the AMA 2023 E/M Guidelines PDF you provided:
+
+⸻
+
+✅ Updated Definitions for MDM Data Elements (per 2023 E/M Guidelines)
+
+1. Tests Ordered During Encounter
+
+Updated Definition:
+Tests are defined as imaging, laboratory, psychometric, or physiologic data. When ordered during the encounter, they are presumed to be analyzed and count as part of MDM. A clinical panel (e.g., BMP) is counted as a single test, and repeated results of the same test are counted only once per encounter ￼.
+
+⸻
+
+2. Test Results Reviewed
+
+Updated Definition:
+Reviewing the result(s) of any unique test (from any source) during the encounter counts as a data point. Multiple results of the same test (e.g., serial glucose levels) count as one unique test. Review must be documented during the encounter to count ￼.
+
+⸻
+
+3. External Records Reviewed
+
+Updated Definition:
+Includes review of records, communications, and/or test results from external physicians, facilities, or healthcare organizations. An external source is defined as outside the reporting provider’s group and specialty/subspecialty ￼.
+
+⸻
+
+4. Independent Historian
+
+Updated Definition:
+An individual (e.g., parent, guardian, surrogate, witness) who provides history in addition to or instead of the patient due to patient incapacity (e.g., dementia, developmental delay, language barrier not included). More than one source may count if needed due to conflicting or unreliable histories ￼.
+
+⸻
+
+5. Independent Interpretations
+
+Updated Definition:
+The provider personally interprets a test (e.g., EKG, CXR) that has a CPT code and where an interpretation or report is customary. The provider cannot also report the professional component (e.g., cannot bill separately for it). A brief notation suffices, but it must represent personal analysis ￼.
+
+⸻
+
+6. External Discussions
+
+Updated Definition:
+Includes direct (not staff-mediated) interactive communication with an external physician, QHP, or appropriate source about management or test interpretation. May be asynchronous (e.g., message exchange), but must occur within a short period and directly impact decision-making. Notes alone or chart-sharing without dialogue do not count ￼.
+
+⸻
+
+'''
